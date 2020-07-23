@@ -1,0 +1,132 @@
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon - Copy (2)\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\Desktop\Ticari_OtomasyonAccess1080_DenemeM\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080M\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon1080\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Deneme\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_Aramali\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\obj\Debug\Otomasyon.GirisEkrani.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\obj\Debug\Otomasyon.GirisEkrani.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\osaha\source\repos\Ticari_Otomasyon720_V - Copy\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
